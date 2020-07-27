@@ -1,3 +1,4 @@
+#https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do
 for i in range(int(input())):
   K,N,M = map(int,input().split())
   # K 이동할 수 있는 정류장 수
